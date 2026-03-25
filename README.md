@@ -1,7 +1,7 @@
 # EXPERIMENT--06-IoT-Based-Relay-Control-System-Using-LoRaWAN-and-Application-Server
 
-### NAME : M.SWETHA
-### REG NO: 212223040223
+### NAME : A. ABIRAMI
+### REG NO: 212224040010
 ### DATE : 09/03/2026
 ## Aim
 To configure a LoRaWAN end device and monitor IR sensor data using a network server and dashboard visualization.
